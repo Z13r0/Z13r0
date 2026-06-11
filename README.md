@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Z13r0
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Duoc_UC_logo.svg/1200px-Duoc_UC_logo.svg.png" alt="Duoc UC Logo" width="200" style="border-radius: 10px; margin: 20px 0;">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Duoc_UC_logo.svg/1200px-Duoc_UC_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCedWiaUvGijAI3v6hMGVzLLetLkwFILXICw&s)" alt="Duoc UC Logo" width="200" style="border-radius: 10px; margin: 20px 0;">
   
   <h3>💻 Estudiante de Ingeniería en Informática</h3>
   <p><strong>Universidad Duoc UC</strong> | 🇨🇱 Chile</p>
