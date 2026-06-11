@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Z13r0
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1273019238282866689/yEn2L7ny.jpg" alt="Duoc UC Logo" width="200" style="border-radius: 10px; margin: 20px 0;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/960px-Logo_DuocUC.svg.png" alt="Duoc UC Logo" width="200" style="border-radius: 10px; margin: 20px 0;">
   
   <h3>💻 Estudiante de Ingeniería en Informática</h3>
   <p><strong>Universidad Duoc UC</strong> | 🇨🇱 Chile</p>
