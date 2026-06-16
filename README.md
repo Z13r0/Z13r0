@@ -31,7 +31,7 @@ Mi objetivo es especializarme en **Desarrollo de Software**, donde espero desarr
 
 | Aspecto | Detalle |
 |---------|---------|
-| **Institución** | Universidad Duoc UC |
+| **Institución** | Instituto Duoc UC |
 | **Carrera** | Ingeniería en Informática |
 | **Ubicación** | 🇨🇱 Chile |
 | **Edad** | 20 años |
