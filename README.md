@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Z13r0
+# ¡Hola! 👋 Soy Sebastian
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/960px-Logo_DuocUC.svg.png" alt="Duoc UC Logo" width="200" style="border-radius: 10px; margin: 20px 0;">
@@ -11,7 +11,7 @@
 
 ## 👨‍🎓 Sobre Mí
 
-Soy un estudiante de **20 años** apasionado por la tecnología y el desarrollo de software. Actualmente estoy cursando **Ingeniería en Informática** en la **Universidad Duoc UC**, una de las principales instituciones educativas de Chile.
+Soy un estudiante de **20 años** apasionado por conocer acerca de nuevos lenguajes de programación . Actualmente estoy cursando **Ingeniería en Informática** en el **Instituto Profesional Duoc UC**, una de las principales instituciones educativas de Chile.
 
 Mi objetivo es especializarme en **Desarrollo de Software**, donde espero desarrollar mis habilidades técnicas y crear soluciones innovadoras que impacten positivamente.
 
@@ -19,11 +19,8 @@ Mi objetivo es especializarme en **Desarrollo de Software**, donde espero desarr
 
 ## 🎯 Mis Objetivos
 
-- 🔭 Actualmente enfocado en mis estudios de ingeniería en informática
-- 🌱 Aprendiendo y mejorando constantemente mis habilidades en desarrollo
-- 👯 Buscando colaborar en proyectos interesantes y desafiantes
-- 💡 Especialización en **Desarrollo de Software** (próximo paso)
-- 🚀 Contribuir a proyectos que marquen la diferencia
+- 🌱 Aprendiendo y mejorando constantemente mis habilidades en desarrollo.
+- 💻 Comprender de mejor manera los tipos de lenguajes de programación.
 
 ---
 
@@ -39,9 +36,13 @@ Mi objetivo es especializarme en **Desarrollo de Software**, donde espero desarr
 
 ---
 
-## 🛠️ Tecnologías
+## 💻 Desarrollo
 
-Estoy en constante aprendizaje de diversas tecnologías. Puedes ver mis proyectos y contribuciones en mis repositorios.
+Actualmente he tenido contacto con varios lenguajes de programación tales como: 
+
+Además de tener la oportunidad de poder desarollar bots o servidores de las siguientes plataforma / videojuegos:
+
+[![Discord](https://skillicons.dev/icons?i=discord)] 
 
 ---
 
@@ -52,9 +53,3 @@ Estoy en constante aprendizaje de diversas tecnologías. Puedes ver mis proyecto
 - **GitHub**: [@Z13r0](https://github.com/Z13r0)
 - **Ubicación**: 🇨🇱 Chile
 
----
-
-<div align="center">
-  <p><strong>¡Gracias por visitar mi perfil!</strong></p>
-  <p>⭐ Si te gustan mis proyectos, considera dejar una estrella en mis repositorios</p>
-</div>
