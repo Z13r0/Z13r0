@@ -38,11 +38,9 @@ Mi objetivo es especializarme en **Desarrollo de Software**, donde espero desarr
 
 ## 💻 Desarrollo
 
-Actualmente he tenido contacto con varios lenguajes de programación tales como: 
+Actualmente he tenido contacto con varios lenguajes de programación tales como. Además de tener la oportunidad de poder desarollar bots o servidores de las siguientes plataforma / videojuegos: 
 
-Además de tener la oportunidad de poder desarollar bots o servidores de las siguientes plataforma / videojuegos:
-
-[![Discord](https://skillicons.dev/icons?i=discord)] 
+[![Plataformas](https://skillicons.dev/icons?i=discord,bots,js,html,bootstrap,py,vscode)]
 
 ---
 
